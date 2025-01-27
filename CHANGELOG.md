@@ -17,6 +17,14 @@ All LXC instances created using this repository come pre-installed with Midnight
 Do not break established syntax in this file, as it is automatically updated by a Github Workflow
 
 
+## 2025-01-27
+
+### Changed
+
+### ✨ New Scripts
+
+- New Script: Arch Linux VM [@MickLesk](https://github.com/MickLesk) ([#1780](https://github.com/community-scripts/ProxmoxVE/pull/1780))
+
 ## 2025-01-26
 
 ### Changed
